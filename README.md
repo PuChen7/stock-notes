@@ -1,1 +1,3 @@
-# stock-notes
+# Stock Notes
+## Content
+- [Basic](notes/basic-notes.md)
