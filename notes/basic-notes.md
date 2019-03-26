@@ -2,7 +2,7 @@
 ## Content
 - [股息](#股息)
 - [派息率](#派息率)
-- [市盈率(PE)](#市盈率/(/PE:-Price-to-Earning-Ratio/)/)
+- [市盈率(PE)](#市盈率\(PE:-Price-to-Earning-Ratio\))
 
 
 ### 股息 (Dividend)
